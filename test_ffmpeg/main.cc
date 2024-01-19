@@ -1,4 +1,5 @@
-extern "C" {
+// Copyright 2024 Michael Carroll
+// extern "C" {
 #include <libavcodec/avcodec.h>
 #include <libavformat/avformat.h>
 #include <libswresample/swresample.h>
